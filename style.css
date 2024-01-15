@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+
+#box{
+    height: 20vh;
+    width: 15vw;
+    background-color: aqua;
+    border-radius: 10px;
+    margin: 20px;
+    
+    text-align:center;   
+}
+
+#box #ch{
+    opacity: 1;
+    font-size: 30px;
+}
